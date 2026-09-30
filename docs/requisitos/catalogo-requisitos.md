@@ -281,9 +281,9 @@ FR-017 se conserva para no perder el identificador histórico, pero su estado es
 | NFR-07 |NFR-Q (Eficiencia; Escalabilidad; Mantenibilidad) |La plataforma mantendrá los objetivos de capacidad y rendimiento definidos para la primera versión sin intervención manual del personal de la organización.| G | -  | Prueba de carga automatizada con 100 usuarios concurrentes y 10 operaciones/s durante 30 min; comprobar mediante registros de monitorización, ausencia de intervención manual. | - |
 | NFR-08 | NFR-R | La plataforma debe encriptar los datos sensibles | G | --- | --- | --- |
 | NFR-09 | NFR-R | La plataforma debe cumplir con el Reglamento General de Protección de Datos | G | --- | --- | --- |
-| NFR-10 | NFR- | --- | --- | --- | --- | --- |
-| NFR-11 | NFR- | --- | --- | --- | --- | --- |
-| NFR-12 | NFR- | --- | --- | --- | --- | --- |
+| NFR-10 | NFR-Q | La plataforma deberá responder a las acciones de los usuarios en menos de 5 segundos | G | --- | --- | --- |
+| NFR-11 | NFR-I | La plataforma debe asegurar que el texto sea de un tamaño legible intependientemente del tamaño de la pantalla | G | --- | --- | --- |
+| NFR-12 | NFR-Q | La plataforma debe respaldar todos los datos cada 24 horas | G | --- | --- | --- |
 | NFR-13 | NFR- | --- | --- | --- | --- | --- |
 
 Categorías y atributos: 
