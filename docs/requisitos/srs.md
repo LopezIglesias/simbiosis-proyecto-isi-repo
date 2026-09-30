@@ -266,7 +266,9 @@ que pueden interpretarse de más de una manera. Cada entrada indicará su fuente
 para conservar la procedencia de la definición. El catálogo de requisitos podrá
 enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
+
 | Término | Definición en Proyecto Simbiosis | Fuente |
+| --- | --- | --- |
 | Nutricionista | Profesional médico o nutricionista | Acta de captura de requisitos generales 1.3 |
 | Cuidador | Usuario que puede gestionar información y recetas de pacientes a las que estos le hayan dado acceso explicito | Acta de captura de requisitos generales 2. |
 | Receta adaptada | Receta con ingredientes y características que encajan con los datos de salud que el paciente tiene en su perfil | Acta de captura de requisitos generales 3. |
